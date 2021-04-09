@@ -1,0 +1,8 @@
+*~
+*pyc
+build/*
+dist/*
+isdbeads.egg*
+isdbeads/*.c
+*.pkl
+*.mrc
